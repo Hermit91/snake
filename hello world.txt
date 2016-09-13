@@ -1,2 +1,2 @@
 print <hello my dear friend>
-print <?hello world?
+print <?hello world?>
